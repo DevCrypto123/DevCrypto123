@@ -1,14 +1,53 @@
-<h1 style="text-align:center;">Hello World! 👋 I'm Mitko Gurbanski&nbsp;</h1>
+<h1 align="center">Hello! 👋 I'm Mitko Gurbanski&nbsp;</h1>
+<p>
+  👋 Hello, I'm Mitko Gurbanski, a versatile developer with a passion for crafting seamless digital experiences. With proficiency in HTML5, CSS3, and Sass/Less, I specialize in creating visually stunning websites. I bring expertise in Angular, React.js, and jQuery for dynamic user interfaces, complemented by skills in Bootstrap 3/4 for optimizing landing pages and transforming designs. As a WordPress maestro, I excel in custom theme development using WP Bakery and Elementor.
+
+On the backend, I'm a Java Spring Boot enthusiast adept at building RESTful APIs and leveraging SQL and XML for robust database solutions. I'm also skilled in C# and Python, integrating technologies seamlessly for backend operations. In the realm of blockchain and crypto, I have extensive experience in DeFi protocols like Uniswap and Sushiswap, with proficiency in Ethers.js, Solidity, and more.
+
+Beyond development, I'm a strategic thinker in business and digital marketing, specializing in e-commerce growth, landing page optimization, and AI technologies like GPT. With a proven track record across diverse sectors including healthcare, startups, and gaming, I'm dedicated to innovation and crafting compelling user experiences. Let's connect and explore how we can innovate together!
+
+
+</p>
+
 <h2>Frontend:</h2>
+<p>- My frontend development expertise covers a wide range of technologies essential for crafting visually appealing websites. I am proficient in HTML5, CSS3, and preprocessors like Sass/Less, enabling me to create modern and stylish web interfaces.</p>
+<p>- For dynamic and responsive user experiences, I excel in frameworks such as Angular and React.js, as well as in leveraging jQuery for efficient DOM manipulation and event handling.</p>
+<p>- My skill set also includes proficiency in Bootstrap 3/4, allowing me to optimize landing pages and efficiently transform PSD designs into pixel-perfect HTML/CSS layouts.</p>
+<p>- In terms of design tools and principles, I am adept at using Adobe Photoshop and Illustrator for creative design tasks, and I apply UI/UX principles and Figma for streamlined design workflows.</p>
+<p>- As a WordPress specialist, I have hands-on experience developing custom themes and utilizing popular page builders like WP Bakery and Elementor to create highly functional and visually engaging websites.</p>
+<p>- Additionally, I have a strong grasp of version control systems, particularly Git, which I use for collaborative development and code versioning.</p>
+<p>- Ensuring optimal performance and user experience is another area of focus, where I employ techniques such as responsive design principles, mobile-first development strategies, and performance optimization methods.</p>
+<p>- I am also knowledgeable in frontend testing frameworks like Jest and Mocha, and I use debugging tools to ensure robust, cross-browser-compatible applications.</p>
+<p>- Accessibility (a11y) standards are integral to my development process, and I implement best practices such as semantic HTML and ARIA roles to ensure inclusivity and compliance with WCAG guidelines.</p>
+<p>- Proficiency with build tools such as Webpack and Gulp allows me to automate tasks and streamline workflows, while my familiarity with backend basics like Node.js and RESTful APIs enhances my understanding of full-stack development.</p>
+<p>- Lastly, I emphasize soft skills such as problem-solving, teamwork, communication, and time management, which are essential for delivering high-quality projects and collaborating effectively within development teams.</p>
+<p>- By combining these skills, I am well-equipped to contribute to frontend development projects and deliver exceptional user experiences across various platforms and devices.</p>
 <p>- Proficient in **HTML5, CSS3, Sass/Less** for crafting visually stunning websites.</p>
 <p>- Expertise in **Angular, React.js, jQuery** for dynamic and responsive user interfaces. </p>
 <p>- Skilled in **Bootstrap 3/4**, landing page optimization, and PSD to HTML/CSS transformations. </p>
 <p>- Creative design using **Adobe Photoshop/Illustrator, UI/UX principles**, and **Figma**.</p>
 <p>- WordPress maestro with hands-on experience in custom themes, **WP Bakery, Elementor**.</p>
 <h2>**Backend:**</h2>
-<p>- Java Spring Boot enthusiast leveraging **Java 8, MVC architecture, and RESTful APIs**.&nbsp;</p>
-<p>- Database mastery with **SQL (MySQL, Postgres, JPA), XML**, and **Jaspersoft reporting**.&nbsp;</p>
-<p>- Versatile in **C#, Python**, and adept at integrating technologies for seamless backend operations.</p>
+<p><strong style="color: #007bff;">Java Spring Boot Expertise:</strong> Specializing in Java 8, MVC architecture, and RESTful APIs to create scalable and efficient backend solutions. Emphasis on best practices in software design and architecture.</p>
+
+<p><strong style="color: #007bff;">Database Mastery:</strong> Proficiency in SQL databases including MySQL, Postgres, and JPA (Java Persistence API). Skilled in designing and optimizing database schemas for diverse application requirements.</p>
+
+<p><strong style="color: #007bff;">Versatility in C# and Python:</strong> Expertise in using C# and Python for backend development, integrating technologies seamlessly for robust backend operations.</p>
+
+<p><strong style="color: #007bff;">API Development:</strong> Strong ability to design, develop, and maintain RESTful APIs for effective communication between server-side systems and client applications.</p>
+
+<p><strong style="color: #007bff;">Business Logic Implementation:</strong> Skilled in implementing complex business logic and algorithms to meet specific application requirements and enhance functionality.</p>
+
+<p><strong style="color: #007bff;">Performance Optimization:</strong> Proven track record in optimizing backend performance through efficient coding practices, database query optimization, and caching mechanisms.</p>
+
+<p><strong style="color: #007bff;">Software Design Best Practices:</strong> Adherence to industry-standard software design principles and patterns to ensure maintainability, scalability, and extensibility of backend systems.</p>
+
+<p><strong style="color: #007bff;">Integration of Diverse Technologies:</strong> Adept at integrating different technologies and services to create cohesive backend solutions, ensuring interoperability and functionality.</p>
+
+<p><strong style="color: #007bff;">Agile Development:</strong> Experience in Agile methodologies, contributing to iterative development cycles and delivering high-quality backend solutions within dynamic team environments.</p>
+
+<p><strong style="color: #007bff;">Problem-Solving and Troubleshooting:</strong> Strong analytical skills and a proactive approach to resolving technical issues, ensuring smooth operation of backend systems.</p>
+
 <h2>Blockchain, Crypto, Defi**</h2>
 <p>- Extensive Experience in Crypto / Defi / Blockchain</p>
 <p>- Uniswap/Sushiswap/PanchakeSwap/ShibaSwap</p>
