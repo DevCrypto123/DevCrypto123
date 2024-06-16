@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm Mitko Gurbanski</h1>
 
-<h5 align="center">**Frontend:**
+<h5 align="center">**Frontend:**</h5>
 - Proficient in **HTML5, CSS3, Sass/Less** for crafting visually stunning websites.
 - Expertise in **Angular, React.js, jQuery** for dynamic and responsive user interfaces.
 - Skilled in **Bootstrap 3/4**, landing page optimization, and PSD to HTML/CSS transformations.
