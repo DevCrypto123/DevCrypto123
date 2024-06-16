@@ -1,36 +1,28 @@
-<h1 align="center">Hello World! 👋 I'm Mitko Gurbanski</h1>
-
-<h5 align="center">**Frontend:**</h5>
-- Proficient in **HTML5, CSS3, Sass/Less** for crafting visually stunning websites.
-- Expertise in **Angular, React.js, jQuery** for dynamic and responsive user interfaces.
-- Skilled in **Bootstrap 3/4**, landing page optimization, and PSD to HTML/CSS transformations.
-- Creative design using **Adobe Photoshop/Illustrator, UI/UX principles**, and **Figma**.
-- WordPress maestro with hands-on experience in custom themes, **WP Bakery, Elementor**.
-
-**Backend:**
-- Java Spring Boot enthusiast leveraging **Java 8, MVC architecture, and RESTful APIs**.
-- Database mastery with **SQL (MySQL, Postgres, JPA), XML**, and **Jaspersoft reporting**.
-- Versatile in **C#, Python**, and adept at integrating technologies for seamless backend operations.
-
-**Blockchain**
-- Knowledge in **Blockchain, Crypto, Defi**
-- Uniswap/Sushiswap 
-- Experience in **Ethers.js, Hardhat, Solidity, Alchemy etc...**
-- General Knowledge in Smart Contract Development
-
-**Business Development & Digital Marketing:**
-- Proven track record in **E-Commerce (WooCommerce, Shopify)** and **growth marketing**.
-- Expert strategist in **landing page and conversion rate optimization**.
-- In-depth knowledge of **AI and GPT**, including hands-on experience with **ChatGPT and prompt engineering**.
-- Proficient in **Facebook Ads, PPC, SEO, Social Media Marketing (SMM), and content writing**.
-- Versatile tools utilization: **Zappier, Optimizly, Mailchimp Newsletter Integration**.
-
-
-**Industry Experience:**
-- Thrives in **Medical and Healthcare, E-Commerce, Startups, Digital Marketing, Crypto and iGaming sectors**.
-
-Ready to launch innovation, craft compelling user experiences, and elevate your digital presence. Let's connect and explore possibilities</h5><br>
-
+<h1 style="text-align:center;">Hello World! 👋 I'm Mitko Gurbanski&nbsp;</h1>
+<h2>Frontend:</h2>
+<p>- Proficient in **HTML5, CSS3, Sass/Less** for crafting visually stunning websites.</p>
+<p>- Expertise in **Angular, React.js, jQuery** for dynamic and responsive user interfaces. </p>
+<p>- Skilled in **Bootstrap 3/4**, landing page optimization, and PSD to HTML/CSS transformations. </p>
+<p>- Creative design using **Adobe Photoshop/Illustrator, UI/UX principles**, and **Figma**.</p>
+<p>- WordPress maestro with hands-on experience in custom themes, **WP Bakery, Elementor**.</p>
+<h2>**Backend:**</h2>
+<p>- Java Spring Boot enthusiast leveraging **Java 8, MVC architecture, and RESTful APIs**.&nbsp;</p>
+<p>- Database mastery with **SQL (MySQL, Postgres, JPA), XML**, and **Jaspersoft reporting**.&nbsp;</p>
+<p>- Versatile in **C#, Python**, and adept at integrating technologies for seamless backend operations.</p>
+<h2>Blockchain, Crypto, Defi**</h2>
+<p>- Extensive Experience in Crypto / Defi / Blockchain</p>
+<p>- Uniswap/Sushiswap/PanchakeSwap/ShibaSwap</p>
+<p>- Bridges / Wallets / Exchanges / Swaps</p>
+<p>- Experience in **Ethers.js, Web3.js Hardhat, Solidity, Alchemy etc...**&nbsp;</p>
+<p>- General Knowledge in Smart Contract Development</p>
+<p>- Solana Development&nbsp;</p>
+<h2>**Business &amp; Digital Marketing:**</h2>
+<p>- Proven track record in: **E-Commerce (WooCommerce, Shopify)** and **growth marketing**.&nbsp;</p>
+<p>- Expert strategist in **landing page and conversion rate optimization**.&nbsp;</p>
+<p>- In-depth knowledge of **AI and GPT**, including hands-on experience with **ChatGPT and prompt engineering**. &nbsp;- Proficient in **Facebook Ads, PPC, SEO, Social Media Marketing (SMM), and content writing**. - Versatile tools utilization: **Zappier, Optimizly, Mailchimp Newsletter Integration**.</p>
+<h2>**Industry Experience:**</h2>
+<p>- Thriving in **Medical and Healthcare, E-Commerce, Startups, Digital Marketing, Crypto and iGaming sectors**.&nbsp;</p>
+<p>Ready to launch innovation, craft compelling user experiences, and elevate your digital presence. Let's connect and explore possibilities<br>&nbsp;</p>
 <h2 align="left">Some Facts About Me</h2>
 
 - 🌱 I’m currently learning **AI/GPT/Web3/Blockchain**
