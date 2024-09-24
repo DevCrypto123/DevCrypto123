@@ -2,9 +2,9 @@
 <p>
   👋 Hello, I'm Mitko Gurbanski, a versatile developer with a passion for crafting seamless digital experiences. With proficiency in HTML5, CSS3, and Sass/Less, I specialize in creating visually stunning websites. I bring expertise in Angular, React.js, and jQuery for dynamic user interfaces, complemented by skills in Bootstrap 3/4 for optimizing landing pages and transforming designs. As a WordPress maestro, I excel in custom theme development using WP Bakery and Elementor.
 
-On the backend, I'm a Java Spring Boot enthusiast adept at building RESTful APIs and leveraging SQL and XML for robust database solutions. I'm also skilled in C# and Python, integrating technologies seamlessly for backend operations. In the realm of blockchain and crypto, I have extensive experience in DeFi protocols like Uniswap and Sushiswap, with proficiency in Ethers.js, Solidity, and more.
+On the backend, I'm a Java Spring Boot enthusiast adept at building RESTful APIs and leveraging SQL and XML for robust database solutions. I'm also skilled in Python, integrating technologies seamlessly for backend operations. In the realm of blockchain and crypto, I have extensive experience in DeFi protocols like Uniswap and Sushiswap, with proficiency in Ethers.js, Solidity, and more.
 
-Beyond development, I'm a strategic thinker in business and digital marketing, specializing in e-commerce growth, landing page optimization, and AI technologies like GPT. With a proven track record across diverse sectors including healthcare, startups, and gaming, I'm dedicated to innovation and crafting compelling user experiences. Let's connect and explore how we can innovate together!
+Beyond development, I'm a strategic thinker in business and digital marketing, specializing in e-commerce growth, landing page optimization, and AI technologies like GPT. With a proven track record across diverse sectors including healthcare, startups, and gaming, I'm dedicated to innovation and crafting compelling user experiences. Let's connect and explore how we can create things together!
 
 
 </p>
