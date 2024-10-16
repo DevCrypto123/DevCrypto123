@@ -1,13 +1,4 @@
 <h1 align="center">Hello! 👋 I'm Mitko Gurbanski&nbsp;</h1>
-<p>
-  👋 Hello, I'm Mitko Gurbanski, a versatile developer with a passion for crafting seamless digital experiences. With proficiency in HTML5, CSS3, and Sass/Less, I specialize in creating visually stunning websites. I bring expertise in Angular, React.js, and jQuery for dynamic user interfaces, complemented by skills in Bootstrap 3/4 for optimizing landing pages and transforming designs. As a WordPress maestro, I excel in custom theme development using WP Bakery and Elementor.
-
-On the backend, I'm a Java Spring Boot enthusiast adept at building RESTful APIs and leveraging SQL and XML for robust database solutions. I'm also skilled in Python, integrating technologies seamlessly for backend operations. In the realm of blockchain and crypto, I have extensive experience in DeFi protocols like Uniswap and Sushiswap, with proficiency in Ethers.js, Solidity, and more.
-
-Beyond development, I'm a strategic thinker in business and digital marketing, specializing in e-commerce growth, landing page optimization, and AI technologies like GPT. With a proven track record across diverse sectors including healthcare, startups, and gaming, I'm dedicated to innovation and crafting compelling user experiences. Let's connect and explore how we can create things together!
-
-
-</p>
 
 <h2>Frontend:</h2>
 <p>- My frontend development expertise covers a wide range of technologies essential for crafting visually appealing websites. I am proficient in HTML5, CSS3, and preprocessors like Sass/Less, enabling me to create modern and stylish web interfaces.</p>
@@ -70,7 +61,8 @@ Beyond development, I'm a strategic thinker in business and digital marketing, s
 
 <h3 align="left">Programming Languages:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='cpp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/csharp.svg" width='40' height='40' title='csharp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='cpp'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/csharp.svg" width='40' height='40' title='csharp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devcrypto123&show_icons=true&locale=en&layout=compact" />
 
